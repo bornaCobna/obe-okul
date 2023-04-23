@@ -1,0 +1,517 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19044.2604; Version 2009; 64bit' Language: 'tr' Physical Memory: 8099 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/pc/ÖBE okul
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59742
+Successfully changed project path to: C:/Users/pc/ÖBE okul
+C:/Users/pc/ÖBE okul
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 74.64 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/pc/ÖBE okul/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   27.21.14.5751
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002032 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 70.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.071 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006532 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.094 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2916 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 103.6 MB.
+System memory in use after: 103.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3347.
+Total: 2.984100 ms (FindLiveObjects: 0.379300 ms CreateObjectMapping: 0.199700 ms MarkObjects: 2.326500 ms  DeleteObjects: 0.077000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/LB3D
+  artifactKey: Guid(7f5f0a5bc6d977144b62b0fa63724e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LB3D using Guid(7f5f0a5bc6d977144b62b0fa63724e2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674aaa495a29df0d9ccb9b567f9659a1') in 0.015263 seconds
+  Import took 0.021569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 684.165769 seconds.
+  path: Assets/LB3D/Bus
+  artifactKey: Guid(be2f58fb1fbeb694aad218de87f021dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LB3D/Bus using Guid(be2f58fb1fbeb694aad218de87f021dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a4de5f63c9d6d8673615edfb50230a') in 0.007067 seconds
+  Import took 0.014067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044532 seconds.
+  path: Assets/LB3D/Bus/SchoolBus.prefab
+  artifactKey: Guid(454880b180c56384386fc9f804d21182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LB3D/Bus/SchoolBus.prefab using Guid(454880b180c56384386fc9f804d21182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ece890781cc7189720aef04f5cf9a01') in 0.160904 seconds
+  Import took 0.166532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.897679 seconds.
+  path: Assets/New Material 2.mat
+  artifactKey: Guid(f1795dffa6c8d7c4ab703bcbade86ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material 2.mat using Guid(f1795dffa6c8d7c4ab703bcbade86ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4bf960f6ee058993acc6483f13fc7c2') in 0.063158 seconds
+  Import took 0.068313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.792081 seconds.
+  path: Assets/LB3D/Bus/Prefabs
+  artifactKey: Guid(c272212d5fbb47d4b9c86cc012e66b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LB3D/Bus/Prefabs using Guid(c272212d5fbb47d4b9c86cc012e66b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6246f5aa35766d200a34766652d31d') in 0.006016 seconds
+  Import took 0.011822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051265 seconds.
+  path: Assets/LB3D/Bus/Prefabs/SchoolBus.prefab
+  artifactKey: Guid(0925cce6ef15b5a47a8fc3ceebdb21af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LB3D/Bus/Prefabs/SchoolBus.prefab using Guid(0925cce6ef15b5a47a8fc3ceebdb21af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07daff37fb27e923c2bf8651aad32baf') in 0.307697 seconds
+  Import took 0.312935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.448398 seconds.
+  path: Assets/school/road
+  artifactKey: Guid(e4b66d7724c1c6148aef14c2f7c009d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/school/road using Guid(e4b66d7724c1c6148aef14c2f7c009d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1958e7b9c7964958045ed60f6f42c132') in 0.006583 seconds
+  Import took 0.012507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040286 seconds.
+  path: Assets/school/road/doroga — krest.fbx
+  artifactKey: Guid(df64657f50132d544870c1de38b5b3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/school/road/doroga — krest.fbx using Guid(df64657f50132d544870c1de38b5b3d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01f18a02c403661a61afa41a579f6dac') in 0.105262 seconds
+  Import took 0.110028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/school/road/floor.fbx
+  artifactKey: Guid(f7413ee7b6daa064087f5749d6f1b9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/school/road/floor.fbx using Guid(f7413ee7b6daa064087f5749d6f1b9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e20322c2a685242687acdf5403db393') in 0.024739 seconds
+  Import took 0.029598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/school/road/floor1.fbx
+  artifactKey: Guid(02ba308bed5cd924d888de16aa13d884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/school/road/floor1.fbx using Guid(02ba308bed5cd924d888de16aa13d884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661d7d12fb1f03ae98c44cfc5c6955f5') in 0.023977 seconds
+  Import took 0.029144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/school/road/doroga.fbx
+  artifactKey: Guid(f8840c3f03e4a1d45b8c43d8e047bd1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/school/road/doroga.fbx using Guid(f8840c3f03e4a1d45b8c43d8e047bd1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a095614963bf5991fe86b8e20cea334e') in 0.023731 seconds
+  Import took 0.028699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.342361 seconds.
+  path: Assets/LB3D/Bus/Scenes
+  artifactKey: Guid(e29c8a4e98ba0e946b83070c14035085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LB3D/Bus/Scenes using Guid(e29c8a4e98ba0e946b83070c14035085) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f257103a5ec6108966699f89eaae70ba') in 0.318089 seconds
+  Import took 0.330247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 201.062423 seconds.
+  path: Assets/New Material 2.mat
+  artifactKey: Guid(f1795dffa6c8d7c4ab703bcbade86ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material 2.mat using Guid(f1795dffa6c8d7c4ab703bcbade86ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4399bfd02acb5e33c2ae2ebd29a19521') in 0.014706 seconds
+  Import took 0.022153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.031769 seconds.
+  path: Assets/Low Poly Furniture
+  artifactKey: Guid(8cea5d49b8d6fc94cbdf644baee1e3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture using Guid(8cea5d49b8d6fc94cbdf644baee1e3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc73d7077492a9c43d53f1d2a19271a') in 0.007286 seconds
+  Import took 0.506578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.611332 seconds.
+  path: Assets/Low Poly Furniture/Prefabs
+  artifactKey: Guid(81f487d9b9661fa4ca3d194b76a4618f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs using Guid(81f487d9b9661fa4ca3d194b76a4618f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a681b0f3478d351e6bd879357e29814e') in 0.002196 seconds
+  Import took 0.007728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.353826 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Bed
+  artifactKey: Guid(5efeadfde12ebb3439c3fb4e6bb084ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Bed using Guid(5efeadfde12ebb3439c3fb4e6bb084ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b535ee9388e8c187487fb0ec72b568c') in 0.006691 seconds
+  Import took 0.012158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028054 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Bed/Double Bed.prefab
+  artifactKey: Guid(6015f705b51ca814683b83a069df4575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Bed/Double Bed.prefab using Guid(6015f705b51ca814683b83a069df4575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce4a7f7a88503b387f653d50e8d81528') in 0.014127 seconds
+  Import took 0.019519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Bed/Single Bed.prefab
+  artifactKey: Guid(1189904b73d88054fa88fa5c364c51f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Bed/Single Bed.prefab using Guid(1189904b73d88054fa88fa5c364c51f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062a429d2d4fb52c1de9a780064d47c4') in 0.011911 seconds
+  Import took 0.016372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.907629 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Wardrobe
+  artifactKey: Guid(356a8f4aa643a8b4b8f74bef51d2da15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Wardrobe using Guid(356a8f4aa643a8b4b8f74bef51d2da15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9819b590c4b72eb8304947d646652e6') in 0.006717 seconds
+  Import took 0.011657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.682011 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Wardrobe/Standart Wardrobe.prefab
+  artifactKey: Guid(945d4f9099e1e9044897b000007b6a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Wardrobe/Standart Wardrobe.prefab using Guid(945d4f9099e1e9044897b000007b6a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df2f3ff40d4f3eebfc4c051284761fdc') in 0.012233 seconds
+  Import took 0.017418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Wardrobe/Twin Wardrobe.prefab
+  artifactKey: Guid(3203d32c7186a84419e35d7ce08429da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Wardrobe/Twin Wardrobe.prefab using Guid(3203d32c7186a84419e35d7ce08429da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f93a8b604908eb1c61a0dbb9b34ad4b3') in 0.011994 seconds
+  Import took 0.015866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.406657 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Table/Desk.prefab
+  artifactKey: Guid(e099759676405524095f6cb203121c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Table/Desk.prefab using Guid(e099759676405524095f6cb203121c71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7949b69a9fe2981dced2caef6419eafb') in 0.012066 seconds
+  Import took 0.017291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Table/Table.prefab
+  artifactKey: Guid(e8fdddcfe6bbce444aff1122997577f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Table/Table.prefab using Guid(e8fdddcfe6bbce444aff1122997577f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a54a7f42dbaee0cafa3dd0ba65c8c278') in 0.011550 seconds
+  Import took 0.015980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Table/Rectangle Table.prefab
+  artifactKey: Guid(00e7c20b7ef3bcb49a714b8924a5524b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Table/Rectangle Table.prefab using Guid(00e7c20b7ef3bcb49a714b8924a5524b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfe64eaf31ae6e6525ebf0ea68d0eb14') in 0.010866 seconds
+  Import took 0.015626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Table/Round Table.prefab
+  artifactKey: Guid(0f76269ae1c485146a382146b683886b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Table/Round Table.prefab using Guid(0f76269ae1c485146a382146b683886b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '186228506bde9ba48ff34b2d8a9d00a8') in 0.010605 seconds
+  Import took 0.014945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Table/L-Shaped Desk.prefab
+  artifactKey: Guid(ced3f6d891a29e341bddee5b657dcb5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Table/L-Shaped Desk.prefab using Guid(ced3f6d891a29e341bddee5b657dcb5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca777f9ec337b45237df651e2f66d3d') in 0.011522 seconds
+  Import took 0.016144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.890314 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Screen/Gaming Screen.prefab
+  artifactKey: Guid(72cea4de7aef0894c84d3b014858e185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Screen/Gaming Screen.prefab using Guid(72cea4de7aef0894c84d3b014858e185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ea4aa5d70b84fc73d1b23c35747961') in 0.012907 seconds
+  Import took 0.017532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Screen/Laptop.prefab
+  artifactKey: Guid(89169722889f81e4eacf361fd33f5b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Screen/Laptop.prefab using Guid(89169722889f81e4eacf361fd33f5b8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae5c8518e1d0925d9ea27a299fa3425') in 0.012583 seconds
+  Import took 0.017005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Screen/Old Screen.prefab
+  artifactKey: Guid(e430022eaa2c59340af3119c722ac3b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Screen/Old Screen.prefab using Guid(e430022eaa2c59340af3119c722ac3b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e20417f246b16a0105950eef657ba8bb') in 0.011518 seconds
+  Import took 0.015401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.691531 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Nightstand/Nightstand.prefab
+  artifactKey: Guid(08cb072512500c3479d2f37b12d4d825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Nightstand/Nightstand.prefab using Guid(08cb072512500c3479d2f37b12d4d825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be11978faeaa55673d195cb0031ca3ab') in 0.014243 seconds
+  Import took 0.020642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Nightstand/Short Nightstand.prefab
+  artifactKey: Guid(88d126b4de386094c87b9d404e6b833d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Nightstand/Short Nightstand.prefab using Guid(88d126b4de386094c87b9d404e6b833d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ee26ba6eced5251a541963e5d5090c') in 0.011386 seconds
+  Import took 0.015475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.622605 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Lamp/Cylinder Lamp.prefab
+  artifactKey: Guid(0478957e3fecb2e40a8300bd5e8b3fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Lamp/Cylinder Lamp.prefab using Guid(0478957e3fecb2e40a8300bd5e8b3fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8798841b1ac4059e2613adc0df828bcd') in 0.012891 seconds
+  Import took 0.017741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Lamp/Lamp.prefab
+  artifactKey: Guid(3dec8914decffc747832ead31a1e1d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Lamp/Lamp.prefab using Guid(3dec8914decffc747832ead31a1e1d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082883b7dcb36d1b01af77cd8e8f24f1') in 0.011295 seconds
+  Import took 0.015218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Lamp/Vaselamp.prefab
+  artifactKey: Guid(196fafd1ecc6ad4499cfff0778350103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Lamp/Vaselamp.prefab using Guid(196fafd1ecc6ad4499cfff0778350103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b4d938b0564d0713ff5ba12d1341a0') in 0.012299 seconds
+  Import took 0.016377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.203901 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Case/Dark Case.prefab
+  artifactKey: Guid(39082e1a4c9dd8d4f9eb27b338daa3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Case/Dark Case.prefab using Guid(39082e1a4c9dd8d4f9eb27b338daa3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70b0f054ff146f73ec7ca85393aa943') in 0.012740 seconds
+  Import took 0.017496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Case/Larger Case.prefab
+  artifactKey: Guid(51a146c33418f27438d3ce21d7f9575d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Case/Larger Case.prefab using Guid(51a146c33418f27438d3ce21d7f9575d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abca9228c4b1e88348137d6c624c8842') in 0.011817 seconds
+  Import took 0.016370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.422585 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Bookshelf/L-Shaped Bookshelf.prefab
+  artifactKey: Guid(12fd54e30b8132746a81622b56e2c962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Bookshelf/L-Shaped Bookshelf.prefab using Guid(12fd54e30b8132746a81622b56e2c962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baaf71fc5a8916c757188b41df6e28ad') in 0.011921 seconds
+  Import took 0.016412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Bookshelf/Wall Bookshelf Small.prefab
+  artifactKey: Guid(70c65ab571624df4786d8004c0a570c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Bookshelf/Wall Bookshelf Small.prefab using Guid(70c65ab571624df4786d8004c0a570c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053db3100ea199d56f6b47f13460cb59') in 0.011401 seconds
+  Import took 0.015480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Bookshelf/Standart Bookshelf.prefab
+  artifactKey: Guid(7abc5df1f075a844e93c14e4a85be936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Bookshelf/Standart Bookshelf.prefab using Guid(7abc5df1f075a844e93c14e4a85be936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3230908da94b13baf08e53db07a9c282') in 0.011372 seconds
+  Import took 0.015604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Bookshelf/Wall Bookshelf Large.prefab
+  artifactKey: Guid(90128d4c28d314d438e6f628dae06392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Bookshelf/Wall Bookshelf Large.prefab using Guid(90128d4c28d314d438e6f628dae06392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303562cf1ff0b68831b0186415901f62') in 0.010519 seconds
+  Import took 0.014654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.973446 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Book/Black Book.prefab
+  artifactKey: Guid(9e604626216d36b4bb52967cf3b88713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Book/Black Book.prefab using Guid(9e604626216d36b4bb52967cf3b88713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7a39e5691f3a437fff486293762d663') in 0.012190 seconds
+  Import took 0.016916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Book/Green Book.prefab
+  artifactKey: Guid(9ded4a2f612997a4ea4eff7e80932e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Book/Green Book.prefab using Guid(9ded4a2f612997a4ea4eff7e80932e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3625b656fd77081220c7293c00fffef2') in 0.015035 seconds
+  Import took 0.020355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Book/Purple Book.prefab
+  artifactKey: Guid(2bd5455a29123e64287c30781ba4c46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Book/Purple Book.prefab using Guid(2bd5455a29123e64287c30781ba4c46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17435d322084fe5a4fe9c55165f9ae3') in 0.014893 seconds
+  Import took 0.021114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Book/Blue Book.prefab
+  artifactKey: Guid(68fd4dcfbe5154d4e89043e3df713c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Book/Blue Book.prefab using Guid(68fd4dcfbe5154d4e89043e3df713c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41cd27b9b5c8c4b1a44dc5d36efcb8a8') in 0.012020 seconds
+  Import took 0.017422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Book/Yellow Book.prefab
+  artifactKey: Guid(26492f5dcfa40dc45851efb6af9c985a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Book/Yellow Book.prefab using Guid(26492f5dcfa40dc45851efb6af9c985a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68f022decce900299d700c881d50cb6c') in 0.011245 seconds
+  Import took 0.015237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.364982 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Chair/Armchair.prefab
+  artifactKey: Guid(eb1fb4a146c78f24b804e376f03bba73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Chair/Armchair.prefab using Guid(eb1fb4a146c78f24b804e376f03bba73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a3cbe69c2fbbc6a0b353bd8de7fb6bb') in 0.012109 seconds
+  Import took 0.016988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Chair/Gaming Chair.prefab
+  artifactKey: Guid(67f2aad6c8f7dea47979d81797fe5da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Chair/Gaming Chair.prefab using Guid(67f2aad6c8f7dea47979d81797fe5da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5318ddcbbe38fdb042b49467c75aa76c') in 0.012233 seconds
+  Import took 0.016538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Chair/Thin Chair.prefab
+  artifactKey: Guid(3ca427402f0ef1347adc69f0ba78d0bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Chair/Thin Chair.prefab using Guid(3ca427402f0ef1347adc69f0ba78d0bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54fe754fac09600e8625469e2375777e') in 0.011709 seconds
+  Import took 0.015913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Chair/Standart Chair.prefab
+  artifactKey: Guid(f22bfcebbb016164480f1e0f1f6915b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Chair/Standart Chair.prefab using Guid(f22bfcebbb016164480f1e0f1f6915b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2402a3014280ccda57e255cab24dc1') in 0.011071 seconds
+  Import took 0.015618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.475836 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Mouse/Big Mouse.prefab
+  artifactKey: Guid(5e8c4682cdcb0a94793f03b352b44710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Mouse/Big Mouse.prefab using Guid(5e8c4682cdcb0a94793f03b352b44710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7525a8fc952f8f87561f0d7fd48b8f88') in 0.012987 seconds
+  Import took 0.018098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Mouse/Small Mouse.prefab
+  artifactKey: Guid(aa7a24ace3c55c247afa56de78afca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Mouse/Small Mouse.prefab using Guid(aa7a24ace3c55c247afa56de78afca81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '865bb2ec88295c8a3b286d853174ba39') in 0.011799 seconds
+  Import took 0.016011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.319475 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Vase/Blue Vase.prefab
+  artifactKey: Guid(134227e2bfcd30b4aad974d008a937a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Vase/Blue Vase.prefab using Guid(134227e2bfcd30b4aad974d008a937a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01159ffbb1edf7e86880106b0b28e8a5') in 0.011941 seconds
+  Import took 0.017032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Vase/Pink Vase.prefab
+  artifactKey: Guid(b2f6d75dfcfd9154ca36c2fc7880137c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Vase/Pink Vase.prefab using Guid(b2f6d75dfcfd9154ca36c2fc7880137c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eda3c078dc12faea742006f2f07e3d51') in 0.011834 seconds
+  Import took 0.016081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Vase/Yellow Vase.prefab
+  artifactKey: Guid(ad406b2edb3da9942884b71642b7693b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Vase/Yellow Vase.prefab using Guid(ad406b2edb3da9942884b71642b7693b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33010593d8c7ab71497be92832e192e5') in 0.011574 seconds
+  Import took 0.015562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.227193 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Keyboard/Gaming Keyboard.prefab
+  artifactKey: Guid(bb732cdb57d31d540bfe20144ec7aefa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Keyboard/Gaming Keyboard.prefab using Guid(bb732cdb57d31d540bfe20144ec7aefa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c6ea9d22f3e63d2f20bf7eadc02f28') in 0.012786 seconds
+  Import took 0.017386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Low Poly Furniture/Prefabs/Keyboard/Old Keyboard.prefab
+  artifactKey: Guid(24c0ed6a224302a4a98a00ea1b3c45ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Furniture/Prefabs/Keyboard/Old Keyboard.prefab using Guid(24c0ed6a224302a4a98a00ea1b3c45ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd08403e2b9e4e8e7ecb90ef7de68e94') in 0.011991 seconds
+  Import took 0.016555 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
